@@ -10,6 +10,7 @@ $ git glone https://github.com/hacess/python-snake-game.git
 $ cd python-snake-game
 $ pip install pygame # (If not installed)
 $ python snake.py
+```
 
 ## Feedback and Contributions
 
